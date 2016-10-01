@@ -4,7 +4,13 @@
     "repositoryName": "manikmagar.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Manik's Scratchpad",
+    "description": "Some random thoughts, organized on web!",
+    "postsPerPage": "10"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Ghostium"
+    "name": "ghostium"
   }
 }
