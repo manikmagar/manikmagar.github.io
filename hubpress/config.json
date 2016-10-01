@@ -8,8 +8,8 @@
   "site": {
     "title": "Manik's Scratchpad",
     "description": "Some random thoughts, organized on web!",
-    "logo": "http://manik.magar.me/images/MM.jpg",
-    "cover": "http://manik.magar.me/images/write-593333_1280.jpg",
+    "logo": "//manik.magar.me/images/MM.jpg",
+    "cover": "//manik.magar.me/images/write-593333_1280.jpg",
     "postsPerPage": "10"
   },
   "socialnetwork": {},
