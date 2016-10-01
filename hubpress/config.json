@@ -2,11 +2,13 @@
   "meta": {
     "username": "manikmagar",
     "repositoryName": "manikmagar.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": "manik.magar.me"
   },
   "site": {
     "title": "Manik's Scratchpad",
     "description": "Some random thoughts, organized on web!",
+    "logo": "write-593333_1280.jpg",
     "postsPerPage": "10"
   },
   "socialnetwork": {},
