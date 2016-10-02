@@ -12,7 +12,12 @@
     "cover": "//manik.magar.me/images/write-593333_1280.jpg",
     "postsPerPage": "10"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "twitter": "https://twitter.com/manikmagar",
+    "googleplus": "https://plus.google.com/+ManikMagar",
+    "linkedin": "https://www.linkedin.com/in/manikmagar",
+    "github": "https://github.com/manikmagar"
+  },
   "theme": {
     "name": "ghostium"
   }
