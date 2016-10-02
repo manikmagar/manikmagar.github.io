@@ -1,0 +1,9 @@
+= Building with Hubpress and Github
+:hp-tags: Welcome, Introduction
+
+I have few blogs running with different blogging platforms like https://wordpress.org/[Wordpress] and http://jbake.org/[JBake]. These blogging platforms need some softwares installed and running on my servers. For my scrapbook, I wanted something very simple and easy publishing tool. After looking into different static site generators, I liked http://hubpress.io/[Hubpress] for its simplicity and easinesss. Plus, it was freely hosted and edited on Github. After spending 15 minutes, here we are with a descent personal scraping blog. 
+
+So, Let's hope to get some more writing here :)
+
+
+
