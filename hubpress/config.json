@@ -10,7 +10,9 @@
     "description": "Some random thoughts, organized on web!",
     "logo": "//manik.magar.me/images/MM.jpg",
     "cover": "//manik.magar.me/images/write-593333_1280.jpg",
-    "postsPerPage": "10"
+    "postsPerPage": "10",
+    "googleAnalytics": "UA-78785354-1",
+    "disqus": "maniksblog"
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/manikmagar",
