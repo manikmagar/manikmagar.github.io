@@ -1,0 +1,8 @@
+= How to check daylight savings in Mule?
+:hp-tags: Mule ESB, QuickNotes
+
+In Mule ESB, if you want to check if current time is in daylight savings or not then you can use Mule Expression Language (MEL) like below -
+
+`<set-variable variableName='isInDST' value='#[TimeZone.getTimeZone('America/New_York').inDaylightTime(server.dateTime.toDate())]'`/>
+
+
